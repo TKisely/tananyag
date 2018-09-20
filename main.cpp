@@ -191,6 +191,7 @@ int pozitivNegyzetreEmeles(int szam){
 //tehat mindent, amit le szeretnenk futtatni, azt a mainben kell hasznalnunk
 //minden amit a mainben hasznalni akarunk vagy a mainben kell letrehozni
 //vagy mar a main ELOTT kell leteznie (pl. fuggvenyek)
+// == folotte kell megirni
 int main() {
 
     //std::cout <<  = a console -ra (out) kiiras
