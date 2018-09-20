@@ -189,6 +189,8 @@ int pozitivNegyzetreEmeles(int szam){
 //lenyegeben, ha nagyon le szeretnenk egyszerusiteni
 //akkor ugy vehetjuk, hogy csak a main fut le
 //tehat mindent, amit le szeretnenk futtatni, azt a mainben kell hasznalnunk
+//minden amit a mainben hasznalni akarunk vagy a mainben kell letrehozni
+//vagy mar a main ELOTT kell leteznie (pl. fuggvenyek)
 int main() {
 
     //std::cout <<  = a console -ra (out) kiiras
